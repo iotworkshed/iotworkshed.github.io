@@ -9,20 +9,20 @@
 /sw.js
   Cache-Control: no-cache
 /offline-plugin-app-shell-fallback/
-  Link: </webpack-runtime-40d2ff50665cb7228b83.js>; rel=preload; as=script
+  Link: </webpack-runtime-422ea01b49724633bce0.js>; rel=preload; as=script
   Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-caa6f560410bfe9ffa16.js>; rel=preload; as=script
 /contact
-  Link: </webpack-runtime-40d2ff50665cb7228b83.js>; rel=preload; as=script
-  Link: </styles.2d98b3cdd9566fc7d39d.css>; rel=preload; as=script
+  Link: </webpack-runtime-422ea01b49724633bce0.js>; rel=preload; as=script
+  Link: </styles.f86a85cb48ae52afa69f.css>; rel=preload; as=script
 /talking-teddy-bear-gift-part-1
-  Link: </webpack-runtime-40d2ff50665cb7228b83.js>; rel=preload; as=script
-  Link: </styles.2d98b3cdd9566fc7d39d.css>; rel=preload; as=script
+  Link: </webpack-runtime-422ea01b49724633bce0.js>; rel=preload; as=script
+  Link: </styles.f86a85cb48ae52afa69f.css>; rel=preload; as=script
 /
-  Link: </webpack-runtime-40d2ff50665cb7228b83.js>; rel=preload; as=script
-  Link: </styles.2d98b3cdd9566fc7d39d.css>; rel=preload; as=script
+  Link: </webpack-runtime-422ea01b49724633bce0.js>; rel=preload; as=script
+  Link: </styles.f86a85cb48ae52afa69f.css>; rel=preload; as=script
 /404/
-  Link: </webpack-runtime-40d2ff50665cb7228b83.js>; rel=preload; as=script
-  Link: </styles.2d98b3cdd9566fc7d39d.css>; rel=preload; as=script
+  Link: </webpack-runtime-422ea01b49724633bce0.js>; rel=preload; as=script
+  Link: </styles.f86a85cb48ae52afa69f.css>; rel=preload; as=script
 /404.html
-  Link: </webpack-runtime-40d2ff50665cb7228b83.js>; rel=preload; as=script
-  Link: </styles.2d98b3cdd9566fc7d39d.css>; rel=preload; as=script
+  Link: </webpack-runtime-422ea01b49724633bce0.js>; rel=preload; as=script
+  Link: </styles.f86a85cb48ae52afa69f.css>; rel=preload; as=script
